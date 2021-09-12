@@ -7,30 +7,31 @@
 
 
 # About
-* Runs massscan on the input file containing ips or subnets
-* Creates a file with desired port with masscan and send it to cameradar to find cameras
-* After getting cameras, it creates a list of cameras urls and send it to take screenshots
+* Takes iplist as input and doing bruteforce on password
+* Prepare access list of specific brand separately and send it to take screenshots
+* Stores screenshots of cameras of different brands separately in specific folder
+* Also creates logs of done ips so that we can resume the process
+
  
 
 # Requirements
 
 It requires python 2.X and works only on Linux
 ```
-apt install docker
 apt install ffmpeg
+pip install colorama
 pip install multiprocessing.dummy
-pip install netaddr
-pip install masscan
+
 
 ```
 # Usage
 
-Save ip/subnets list in a single file and run the following command
+Save iplist in a single file and run the following command
 
-```python cam-scan.py iplist threads_count```
+```python CAM-BRUTEFORCE-main.py iplist passlist```
 
 ### Example
-```python cam-scan.py iplist 10```
+```python CAM-BRUTEFORCE-main.py iplist passlist```
 
 # Output Result
 ### Created Screenshots folder, url and rtsp-url file
