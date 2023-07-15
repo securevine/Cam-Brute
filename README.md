@@ -34,7 +34,7 @@ Save iplist in a single file and run the following command
 ```python CAM-BRUTEFORCE-main.py iplist passlist```
 
 # Output Result
-### Created Screenshots folder, url and rtsp-url file
+### Created Screenshots folder of different Camera brands , access list and log file
 
 <img width="883" alt="Screenshot 2023-07-15 at 8 04 38 PM" src="https://github.com/securevine/Cam-Brute/assets/90141144/a7db689a-d56b-4e47-8b97-3a588d6fb9b4">
 
