@@ -36,7 +36,8 @@ Save iplist in a single file and run the following command
 # Output Result
 ### Created Screenshots folder, url and rtsp-url file
 
-<img width="582" alt="output-folder" src="https://user-images.githubusercontent.com/90141144/132224303-131fc655-4920-48df-8655-e3517bce9a9a.png">
+<img width="883" alt="Screenshot 2023-07-15 at 8 04 38 PM" src="https://github.com/securevine/Cam-Brute/assets/90141144/a7db689a-d56b-4e47-8b97-3a588d6fb9b4">
+
 
 ### Inside Screenshots folder
 
