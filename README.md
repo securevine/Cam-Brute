@@ -41,7 +41,7 @@ Save iplist in a single file and run the following command
 
 ### Inside Screenshots folder
 
-<img width="589" alt="Screenshots-folder" src="https://user-images.githubusercontent.com/90141144/132225299-33e5ad33-f38a-4670-ab22-d9da45040e01.png">
+<img width="883" alt="Screenshots-folder" src="https://user-images.githubusercontent.com/90141144/132225299-33e5ad33-f38a-4670-ab22-d9da45040e01.png">
 
 
 
