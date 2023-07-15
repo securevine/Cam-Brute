@@ -1,6 +1,6 @@
 # Cam-Brute
 
-<img width="608" alt="Screenshot 2021-09-12 at 2 52 07 PM" src="https://user-images.githubusercontent.com/90141144/132982352-d18f11b0-6292-4184-b21b-235d216b2946.png">
+<img width="883" alt="Screenshot 2021-09-12 at 2 52 07 PM" src="https://user-images.githubusercontent.com/90141144/132982352-d18f11b0-6292-4184-b21b-235d216b2946.png">
 
 
 
