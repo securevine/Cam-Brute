@@ -46,5 +46,4 @@ Save iplist in a single file and run the following command
 
 
 
-Special Thanks to Cameradar developers https://github.com/Ullaakut/cameradar
 
