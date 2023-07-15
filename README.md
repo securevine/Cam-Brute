@@ -38,11 +38,6 @@ Save iplist in a single file and run the following command
 
 <img width="582" alt="output-folder" src="https://user-images.githubusercontent.com/90141144/132224303-131fc655-4920-48df-8655-e3517bce9a9a.png">
 
-![simple-drop-dark-10k-j4-2880x1800](https://github.com/securevine/Cam-Brute/assets/90141144/f1ad9139-061e-4dff-8b24-975316c0f848)
-
-
-
-
 ### Inside Screenshots folder
 
 <img width="589" alt="Screenshots-folder" src="https://user-images.githubusercontent.com/90141144/132225299-33e5ad33-f38a-4670-ab22-d9da45040e01.png">
