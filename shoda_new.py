@@ -1,6 +1,6 @@
 import shodan
 import time
-SHODAN_API_KEY = "DKp3yu4DkU5T3peHDM8KOwV6JgCiIQlv"
+SHODAN_API_KEY = "********************************"
 api = shodan.Shodan(SHODAN_API_KEY)
 page=1
 while page ==1 or results['matches']:
